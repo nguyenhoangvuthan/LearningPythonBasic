@@ -1,2 +1,2 @@
-# LearningPythonBasic
-#All file is practice Python Basic
+# Learning Python Basic
+All file is practice Python basic
